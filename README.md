@@ -1,0 +1,2 @@
+# Online-Laboratory-System
+ Welcome to Online Laboratory System, an innovative online laboratory system designed to revolutionize healthcare management. This repository serves as the central hub for our cutting-edge platform that seamlessly integrates patient management, report generation, and financial tracking. Experience a streamlined and efficient solution for laboratory operations, contributing to enhanced patient care and administrative ease.
